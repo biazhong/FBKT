@@ -1,3 +1,6 @@
+// Parameter N is the total sampling budget, mu contains the true mean of each alternative, and sigma2 contains the true variance of each alternative.
+
+
 package procedures;
 
 import java.util.ArrayList;
