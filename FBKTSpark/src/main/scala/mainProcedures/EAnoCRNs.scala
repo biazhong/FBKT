@@ -1,4 +1,7 @@
-//Parameter n = total sampling budget / k; Parameter param is the problem parameter for the throughput-maximization problem typically we set it to be 20,50,128; Parameter nCores specifies the number of cores to be used to conduct the selection.
+
+//Parameter n = total sampling budget / k; 
+//Parameter param is the problem parameter for the throughput-maximization problem typically we set it to be 20,50,128; 
+//Parameter nCores specifies the number of cores to be used to conduct the selection;
 //Parameter repeat is the number of macro-replications to estimate the results.
 package mainProcedures
 
