@@ -1,3 +1,6 @@
+// Parameter N0 is the initial stage sampling budget, N is the total sampling budget, mu contains the true mean of each alternative, sigma2 contains the true variance of each alternative, and Allocation is the positive integer phi.
+
+
 package procedures;
 
 import java.util.ArrayList;
