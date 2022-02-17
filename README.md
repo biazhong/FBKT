@@ -14,7 +14,7 @@ Folder FBKT contains the code for the first two numerical experiments of the pap
   
 ---File OCBA.java implements the OCBA procedure.
   
-Folder FBKTSpark contains the code for the experiment conducted in section 5.3 of the paper.
+Folder FBKTSpark contains the code for the experiments conducted in section 5.3 of the paper.
   
 ---File EACRNs.scala implements the EA procedure with CRNs;
   
