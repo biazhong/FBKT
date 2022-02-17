@@ -1,5 +1,10 @@
 # FBKT
-Folder FBKT contains the code for the first two numerical experiments for the paper ``Solving Large-Scale Ranking and Selection Probblems''.
+
+File Numerical Results.xlsx contains all the numerical results and the pseudo random number seed used to conduct each numercial experiment for the paper ``Solving Large-Scale Ranking and Selection Probblems''.
+
+In the paper, we use Spark Release 2.4.4 and Scala 2.11.12.
+
+Folder FBKT contains the code for the first two numerical experiments of the paper.
 
 ---File FBKTGeneral.java implements the FBKT procedure; 
 
@@ -9,9 +14,7 @@ Folder FBKT contains the code for the first two numerical experiments for the pa
   
 ---File OCBA.java implements the OCBA procedure.
   
-Folder FBKTSpark contains the code for the experiment conducted in section 5.3 of the paper ``Solving Large-Scale Ranking and Selection Probblems''.
-
-In this papr, we use Spark Release 2.4.4 and Scala 2.11.12.
+Folder FBKTSpark contains the code for the experiment conducted in section 5.3 of the paper.
   
 ---File EACRNs.scala implements the EA procedure with CRNs;
   
@@ -23,4 +26,3 @@ In this papr, we use Spark Release 2.4.4 and Scala 2.11.12.
   
 ---File FBKTCRNsRTime.scala implements the FBKT^s+ procedure used to conduct the numerical experiments for Table 5.
 
-File Numerical Results.xlsx contains all the numerical results for the paper.
