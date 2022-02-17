@@ -2,7 +2,7 @@
 
 File Numerical Results.xlsx contains all the numerical results and the pseudo random number seed used to conduct each numercial experiment for the paper ``Solving Large-Scale Ranking and Selection Probblems''.
 
-In the paper, we use Spark Release 2.4.4 and Scala 2.11.12.
+In the paper, we use Spark Release 2.4.4 and Scala 2.11.12 to conduct the experiments related to the parallel computing.
 
 Folder FBKT contains the code for the first two numerical experiments of the paper.
 
